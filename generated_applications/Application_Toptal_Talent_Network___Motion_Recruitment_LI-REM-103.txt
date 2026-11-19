@@ -1,0 +1,19 @@
+Dear Toptal Talent Network / Motion Recruitment Hiring Team,
+
+I am writing to express my strong enthusiasm for the Junior Python Developer - Workflow Automation position at Toptal Talent Network / Motion Recruitment. As an Information Technology student at Penn State with practical experience building defensive Python simulations (including real-time transaction processing, error handling, and API/logic workflows), I specialize in writing clean, reliable code and building automated solutions.
+
+Key contributions I would bring to your team include:
+• Engineered a multi-feature Python banking simulator with PIN authentication and input validation.
+• Designed automated workflow notification triggers reducing administrative overhead.
+• Strong grasp of software evaluation, sandbox testing, and database integrity.
+
+I am located in Pennsylvania (EST), available immediately for remote work/contracts, and fully authorized to work in the US without requiring sponsorship.
+
+Thank you for your time and consideration. I welcome the opportunity to discuss how my skill set can support Toptal Talent Network / Motion Recruitment's goals.
+
+Sincerely,
+
+Baidar Bakht
+412-607-6588 | baidarbakht24@gmail.com
+LinkedIn: https://www.linkedin.com/in/baidar-bakht-a83350365/
+Penn State University – B.S. in Information Technology (GPA: 3.7)

@@ -1,0 +1,48 @@
+# =========================================================
+# Job Application Automation Configuration for Baidar Bakht
+# =========================================================
+
+candidate:
+  name: "Baidar Bakht"
+  email: "baidarbakht24@gmail.com"
+  phone: "412-607-6588"
+  city: "Monroeville"
+  state: "PA"
+  zip_code: "15146"
+  linkedin_url: "https://www.linkedin.com/in/baidar-bakht-a83350365/"
+  university: "The Pennsylvania State University – Greater Allegheny"
+  degree: "Bachelor of Science in Information Technology"
+  gpa: "3.7"
+  graduation: "Fall 2026 (Expected)"
+  resume_path: "resume.pdf"  # Place your updated PDF resume here
+
+work_authorization:
+  authorized_in_us: true
+  requires_sponsorship: false
+  willing_to_relocate: false # Prefer remote
+  available_immediately: true
+
+experience_defaults:
+  python_years: 2
+  excel_years: 3
+  it_support_years: 2
+  database_hygiene_years: 2
+
+search_criteria:
+  location: "United States"
+  remote_only: true
+  target_job_types:
+    - "Contract"
+    - "Full-time"
+    - "Part-time"
+    - "Contract-to-Hire"
+  experience_levels:
+    - "Entry Level"
+    - "Internship"
+  min_match_score: 80
+
+automation:
+  mode: "assisted"  # Options: 'assisted' (recommended: browser autofill + review) or 'automated'
+  delay_seconds: 3
+  generate_cover_letter: true
+  auto_update_tracker: true
